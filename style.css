@@ -1,0 +1,377 @@
+/* https://github.com/font-store/font-IranNastaliq.git */
+html , body{
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+body{
+  position: relative;
+}
+
+
+.titl{
+  border-radius: .8rem;
+    padding-right: .2rem;
+    padding-left: .2rem;
+    padding-bottom: 1rem;
+    height: fit-content;
+    color: white;
+    width: 250px;
+    background-color: #000000bd
+}
+
+
+
+  .s1{
+    padding-top: 10px;
+
+    height: 100%;
+  }
+
+
+
+
+  .ss{
+    color: white;
+    width: 100% !important;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+
+  .aghaa{
+    position: relative;
+    /* left: calc(50% - 200px);
+    top: calc(50% - 200px); */
+   margin: auto;
+    width: 340px;
+     height: 340px;
+    border-radius: 100%;
+  }
+  .agha{
+    position: absolute;
+    left: calc(50% - 170px);
+    top: calc(50% - 150px);
+    cursor: pointer;
+object-fit: cover;
+
+    width: 340px;
+    height: 340px;
+    border-radius: 100%;
+    transition: all .1s ease-in-out;
+  }
+
+  .agha:active{
+    box-shadow: 0px 0px 10px 10px ;
+   scale: 1.05;
+  }
+
+
+.bala{
+  display: flex;
+  justify-content: center;
+  
+}
+.like1{
+  /* position: absolute; */
+  margin-top: 20px;
+  height: 50px;
+  border-radius: 1rem;
+  background-color: #131413cf;
+  width: 150px;
+margin-right: .5rem;
+ 
+  
+
+
+
+}
+  .like{
+    /* position: absolute; */
+    margin-top: 20px;
+    height: 50px;
+  border-radius: 1rem;
+    
+    background-color: #131413cf;
+    width: 150px;
+    display: flex;
+    margin-right: .5rem;
+
+
+
+  }
+  .like3{
+    /* position: absolute; */
+    margin-top: 20px;
+    height: 50px;
+    border-radius: 1rem;
+    background-color: #131413cf;
+    width: 150px;
+    
+    display: flex;
+    
+
+  }
+  .ghalb1{ 
+
+    padding-left: .3rem;
+    
+  }
+
+  .ghalb{ 
+
+    padding-left: .3rem;
+    display: flex;
+    align-items: center;
+    
+  }
+
+  .ghalb3{ 
+
+    padding-left: .3rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .aks{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -2;
+  }
+
+  .hov{
+    
+    width: 50px !important;
+   height: 50px !important;
+    position: absolute;
+    /* left: calc(50% - 25px);
+    top: calc(60% - 5px); */
+    transition: all .3s ease-in-out;
+  }
+.spann{
+  font-size: 2rem;
+  position: absolute;
+    /* left: calc(50% - 25px);
+    top: calc(60% - 5px); */
+    transition: all .3s ease-in-out;
+    color: white;
+  
+}
+
+
+
+
+
+
+  .hoverr:active{
+    top: calc(30% - 5px);
+  }
+
+
+
+
+
+  .light{
+     margin-top: 2.3rem; 
+   
+  }
+  .tttt{
+    padding-left: .5rem;
+    padding-right: .7rem;
+   
+
+    color: white;
+    width: fit-content;
+    margin: auto;
+    border-radius: 1rem;
+    background-color: #131413cf;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+
+
+
+
+
+  .grooh{
+  margin-top: 2.1rem !important;
+    width: 350px !important;
+  }
+  
+
+  .btn-secondary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #1f2021;
+    --bs-btn-border-color: #6c757d;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #5c636a;
+    --bs-btn-hover-border-color: #565e64;
+    --bs-btn-focus-shadow-rgb: 130, 138, 145;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #565e64;
+    --bs-btn-active-border-color: #51585e;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #6c757d;
+    --bs-btn-disabled-border-color: #6c757d;
+}
+
+
+
+
+
+
+
+
+
+/* upgrade */
+
+.back{
+  width: 100%;
+
+  background: rgb(54,74,173);
+background: radial-gradient(circle, rgba(54,74,173,1) 0%, rgba(136,45,64,1) 100%);
+}
+.back1{
+  width: 100%;
+
+  background: rgb(255,255,255);
+  background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(26,34,62,0.989233193277311) 0%);
+  }
+
+
+  .back3{
+    /* width: 100%; */
+  
+   
+  background: rgb(24,164,26);
+  background: radial-gradient(circle, rgba(24,164,26,1) 0%, rgba(45,136,92,1) 100%);
+}
+
+
+
+.day{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.daily{
+  /* width: 45%; */
+  /* border: 1px solid black; */
+height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.vasat{
+  /* height: 100%; */
+  display: flex;
+  justify-content: center;
+  
+  /* align-items: center; */
+  margin-top: 3rem;
+}
+.borderr{
+  
+  width: 433px;
+  /* border: 1px solid black; */
+  /* height: 400px; */
+}
+
+.endd{
+  margin-top: 1.8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.booster1{
+  display: flex;
+  align-items: center;
+border-radius: .9rem;
+background-color: rgb(67 83 135) !important;
+position: relative;
+width: 200px;
+}
+
+
+
+.booster{
+  display: flex;
+  align-items: center;
+border-radius: .9rem;
+background-color: rgb(67 83 135) !important;
+position: relative;
+}
+
+
+.qwe{
+ 
+  width: 90%;
+  padding: .5rem;
+  background-color: #15ff1cdb;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: .3rem;
+}
+
+.asd{
+  width: 90%;
+  height: 300px;
+  padding: .5rem;
+  background-color: #000000;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: .7rem;
+  z-index: 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.gift{
+  border-radius: .6rem;
+  height: 80px;
+  width: 90%;
+  background: rgb(35,77,226);
+background: linear-gradient(90deg, rgba(35,77,226,0.989233193277311) 0%, rgba(16,80,129,1) 53%);
+}
+
+
+.groohs3{
+  margin-top: .3rem;
+  width: 350px !important;
+}
